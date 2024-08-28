@@ -1,4 +1,4 @@
-# LendingClub DefaultPrediction
+# LendingClub Challenge: Default Prediction
 
 - Project for Machine Learning in Fintech, 2021 Coursework in SNU AIIS Big Data Fintech Program
 - Build the best prediction model for predicting the default loan
